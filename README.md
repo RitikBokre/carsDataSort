@@ -1,3 +1,3 @@
 # carsDataSort
 
-Netlify Deployed Link : `https://carsort.netlify.app/`
+Netlify Deployed Link : https://carsort.netlify.app/
